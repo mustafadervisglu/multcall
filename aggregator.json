@@ -1,5 +1,4 @@
 {
-  "_format": "hh-sol-artifact-1",
   "contractName": "AggregatorV3Interface",
   "sourceName": "contracts/interfaces/AggregatorV3Interface.sol.sol",
   "abi": [
@@ -116,7 +115,5 @@
     }
   ],
   "bytecode": "0x",
-  "deployedBytecode": "0x",
-  "linkReferences": {},
-  "deployedLinkReferences": {}
+  "deployedBytecode": "0x"
 }
